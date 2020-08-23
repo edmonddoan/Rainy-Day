@@ -1,4 +1,4 @@
-Rainy Day Savings  using AWS
+Rainy Day Budgeting  using AWS
 ==================================================
 
 This sample code helps get you started with a simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
